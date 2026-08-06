@@ -128,7 +128,7 @@ class DebdeepGhosh:
 </div>
 
 <!-- Footer capsule -->
-<img src="https://capsule-render.vercel.app/api?type=venom&height=150&color=0:00f5ff,100:0f2027&animation=twinkling" width="100%"/>
+<img src="https://raw.githubusercontent.com/adiati98/adiati98/main/hello.gif" width="450"/>
 
 <div align="center">
   <img src="matrix-rain.svg" width="100%" alt="Matrix rain animation"/>
