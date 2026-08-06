@@ -136,3 +136,9 @@ class DebdeepGhosh:
 <img src="https://capsule-render.vercel.app/api?type=venom&height=120&color=0:00f5ff,100:0f2027&section=footer&animation=twinkling" width="100%"/>
 
 </div>
+
+### `> 💚 Matrix Rain`
+
+<div align="center">
+  <img src="./assets/matrix-rain.svg" width="100%" alt="Matrix rain animation"/>
+</div>
