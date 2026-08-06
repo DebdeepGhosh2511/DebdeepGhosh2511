@@ -117,7 +117,6 @@ class DebdeepGhosh:
 <div align="center">
 
 ---
----
 
 <div align="center">
 
@@ -125,7 +124,6 @@ class DebdeepGhosh:
 
 </div>
 
----
 
 <div align="center">
 
