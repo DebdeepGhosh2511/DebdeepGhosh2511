@@ -97,10 +97,10 @@ class DebdeepGhosh:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DebdeepGhosh2511&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&icon_color=00F5FF&text_color=c9d1d9" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=DebdeepGhosh2511&theme=tokyonight&hide_border=true&background=0d1117&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=DebdeepGhosh2511&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&icon_color=00F5FF&text_color=c9d1d9&cache_seconds=86400" width="48%"/>
+<img src="https://streak-stats.demolab.com?user=DebdeepGhosh2511&theme=tokyonight&hide_border=true&background=0d1117&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF" width="48%"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DebdeepGhosh2511&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&text_color=c9d1d9" width="45%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DebdeepGhosh2511&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&text_color=c9d1d9&cache_seconds=86400" width="45%"/>
 
 </div>
 
@@ -115,6 +115,28 @@ class DebdeepGhosh:
 ----
 
 <div align="center">
+
+---
+---
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif" width="450"/>
+
+</div>
+
+---
+
+<div align="center">
+
+
+
+![Profile views](https://komarev.com/ghpvc/?username=DebdeepGhosh2511&color=00F5FF&style=for-the-badge&label=PROFILE+VIEWS)
+
+
+</div>
+
+---
 
 <!-- Footer capsule -->
 <img src="https://capsule-render.vercel.app/api?type=venom&height=120&color=0:00f5ff,100:0f2027&section=footer&animation=twinkling" width="100%"/>
