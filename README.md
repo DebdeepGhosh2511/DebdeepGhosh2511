@@ -110,7 +110,7 @@ class DebdeepGhosh:
 
 <!-- Requires the platane/snk GitHub Action — setup steps below -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/DebdeepGhosh2511/DebdeepGhosh2511/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <img src=".github/workflows/snake.yml" width="100%"/>
 </div>
 
 ---
