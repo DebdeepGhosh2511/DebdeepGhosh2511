@@ -67,23 +67,6 @@ class DebdeepGhosh:
 
 ### `> Featured Repositories`
 
-<div align="center">
-
-<a href="https://github.com/DebdeepGhosh2511/Insurance_fraud_detection">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=DebdeepGhosh2511&repo=Insurance_fraud_detection&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/DebdeepGhosh2511/AI_Research_Assistant">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=DebdeepGhosh2511&repo=AI_Research_Assistant&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/DebdeepGhosh2511/ZED-3D-Localization">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=DebdeepGhosh2511&repo=ZED-3D-Localization&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&text_color=c9d1d9" />
-</a>
-<a href="https://github.com/DebdeepGhosh2511/Docling_pdfextract">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=DebdeepGhosh2511&repo=Docling_pdfextract&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00F5FF&text_color=c9d1d9" />
-</a>
-
-</div>
-
 | Repo | What it does |
 |---|---|
 | **Insurance_fraud_detection** | End-to-end ML app predicting fraudulent insurance claims with a Random Forest Classifier — FastAPI + Streamlit + SQLAlchemy |
