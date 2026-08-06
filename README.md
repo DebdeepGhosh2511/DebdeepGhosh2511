@@ -13,7 +13,7 @@
 <!-- ===== NEURAL NETWORK ANIMATION ===== -->
 <!-- Upload neural-network.svg to an `assets/` folder in this repo, then this renders live -->
 <p align="center">
-  <img src="./assets/neural-network.svg" width="100%" alt="Neural network animation"/>
+  <img src="neural-network.svg" width="100%" alt="Neural network animation"/>
 </p>
 
 <div align="center">
