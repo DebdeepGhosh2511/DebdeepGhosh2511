@@ -106,14 +106,13 @@ class DebdeepGhosh:
 
 ---
 
-### `> Contribution Snake`
+### `> Activity Graph`
 
-<!-- Requires the platane/snk GitHub Action — setup steps below -->
 <div align="center">
-  <img src=".github/workflows/snake.yml" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DebdeepGhosh2511&theme=react-dark&bg_color=0d1117&color=00F5FF&line=00F5FF&point=ffffff&hide_border=true" width="100%"/>
 </div>
 
----
+----
 
 <div align="center">
 
