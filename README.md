@@ -140,5 +140,5 @@ class DebdeepGhosh:
 ### `> 💚 Matrix Rain`
 
 <div align="center">
-  <img src="./assets/matrix-rain.svg" width="100%" alt="Matrix rain animation"/>
+  <img src="matrix-rain.svg" width="100%" alt="Matrix rain animation"/>
 </div>
